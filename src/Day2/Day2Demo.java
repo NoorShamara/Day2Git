@@ -10,4 +10,5 @@ this is comming from remot
 
 
 */
+	String name = "Noor";
 }
