@@ -11,5 +11,5 @@ this is comming from remot
 
 */
 	String name = "Noor";
-	String last name ="Shamara";
+	String lastName ="Shamara";
 }
