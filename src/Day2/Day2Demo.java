@@ -12,4 +12,5 @@ this is comming from remot
 */
 	String name = "Noor";
 	String lastName ="Shamara";
+	int age = 10;
 }
